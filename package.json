@@ -33,5 +33,10 @@
       "bcrypt",
       "sharp"
     ]
-  }
+  },
+  "files.associations": {
+  "*.css": "tailwindcss"
+}
+
+  
 }
